@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Point per passing TD
-ppptd = 4
+ppptd = 6
 
 def convert_datatypes(df):
 
